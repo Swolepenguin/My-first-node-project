@@ -1,0 +1,19 @@
+{
+  "name": "my-first-node-project",
+  "version": "1.0.0",
+  "description": "my First Node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swolepenguin/My-first-node-project.git"
+  },
+  "author": "Ashton Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swolepenguin/My-first-node-project/issues"
+  },
+  "homepage": "https://github.com/Swolepenguin/My-first-node-project#readme"
+}
